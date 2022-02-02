@@ -1,0 +1,17 @@
+.essai_menu {
+    width : 300px;
+    margin:auto;
+    background-color:#4a829f;
+}
+
+.essai_bouton {
+    width : 200px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:#91a0e1;
+    padding: 20px;
+    margin-top:0px;
+    margin-bottom:0px;
+    border-radius:10px;
+
+
